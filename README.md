@@ -1,4 +1,7 @@
 # PotentialFieldPlanner
+
+*dynamicObs and plotmap p files are from instructors at the University of Pennsylvania; their underlying m files were not written by me. 
+
 Function Description:
 
 **potential_field_step**
